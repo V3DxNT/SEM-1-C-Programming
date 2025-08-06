@@ -118,6 +118,15 @@ The files cover foundational C concepts — from arithmetic operations and condi
 | `C49_callByReferenceArrowOperator.c` | Accessing structure with arrow operator |
 </details>
 
+<details>
+<summary><b>🔹 Dynamic Memory Allocation</b></summary>
+
+| File                    | Description |
+|-------------------------|-------------|
+| `C50_IntegerMalloc.c`   | Dynamic memory allocation for integers using `malloc` |
+| `C51_CharacterMalloc.c` | Dynamic memory allocation for characters using `malloc` |
+| `C52_ArrayMalloc.c`     | Dynamic memory allocation for arrays using `malloc` |
+</details>
 ---
 
 ## ⚙️ Getting Started
